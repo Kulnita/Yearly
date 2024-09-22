@@ -1,5 +1,5 @@
 ## 🟡 Yearly
-* Yearly Project Goal is Perform Data Analyst on Trans Jakarta Trip on April 2023 Using Python
+* Yearly Project Goal is Perform Data Analyst on Trans Jakarta Trip at April 2023 Using Python
 * Yearly Project also Generate Dashboard on Data Studio
 
 ## 🔍 Question
