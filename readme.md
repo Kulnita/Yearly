@@ -3,8 +3,9 @@
 * Yearly Project also Generate Dashboard on Data Studio
 
 ## 🔍 Question
-* Hi
-* Hi
+* Total Trip and Total Profit on April 2023 ?
+* Total Trip Using Jaklingko, Royal Trans ?
+* How Many Trip That Passenger is Part of Kartu Layanan Gratis ?
 
 ## 📊 Analyze
 * Hi
